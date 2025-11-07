@@ -6,7 +6,7 @@ This project is designed for **anyone curious about understanding text feedback*
 
 ---
 
-## 🌟 Features
+## Features
 
 - Analyze the **sentiment** of text messages or feedback.
 - Extract **key phrases** (important words) from the text.
@@ -16,7 +16,7 @@ This project is designed for **anyone curious about understanding text feedback*
 
 ---
 
-## 💻 How It Works
+## How It Works
 
 1. User submits a text snippet to the app.
 2. Azure **Text Analytics** processes the text:
@@ -29,7 +29,7 @@ This setup allows businesses or developers to quickly **track customer feedback,
 
 ---
 
-## 🛠️ Technologies Used
+## Technologies Used
 
 - **Azure Cognitive Services Text Analytics** – for sentiment and key phrases.
 - **Azure Cosmos DB (NoSQL)** – to store results.
@@ -38,7 +38,7 @@ This setup allows businesses or developers to quickly **track customer feedback,
 
 ---
 
-## 🚀 How to Run Locally
+## How to Run Locally
 
 1. **Clone the repository**
 
